@@ -1,0 +1,8 @@
+json-server --watch db.json                                .......to start server
+json-server db.json -m ./node_modules/json-server-auth     .......to start server with auth
+
+npm install -g json-server                           .......to install server
+npm install -D json-server json-server-auth           .......to install server auth
+
+
+/660/*	User must be logged to write or read the resource. 	

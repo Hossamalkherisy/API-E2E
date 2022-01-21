@@ -1,0 +1,41 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Full postman from zero"
+    },
+    {
+      "id": 2,
+      "title": "Selemuim",
+      "description": "Full Selemuim from zero"
+    },
+    {
+      "id": 3,
+      "title": "cypess",
+      "description": "Full cypess from zero"
+    },
+    {
+      "title": "JavaScript",
+      "description": "Full JavaScript from zero",
+      "id": 4
+    },
+    {
+      "title": "C++",
+      "description": "Full c++ from zero",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "Hossam12345@mail.com",
+      "password": "$2a$10$1vzXRwVwipPEQKbDSP/6ce7D6.KmcHnAZUN4Ib.5b29xHoPZggWj.",
+      "id": 1
+    },
+    {
+      "email": "Hossam12345@gmail.com",
+      "password": "$2a$10$j7Th5NC7kspTI7h.gUCca.4qLNlsRGr6thCkSuWmmCSr6vkLV9x1O",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+User :Hossam
+pass:hossam01154080644
+
+
+
+to start localhost
+ java -jar F:\Testproject\API\qrtest\jenkins.war --enable-future-java --httpPort=8080
